@@ -25,7 +25,7 @@ https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/
 
 已经完美的功能包括：声卡，显卡，网卡，变频，睡眠，无线网卡
 
-暂不完美的包括：iMessage，FaceTime，Handoff 部分高级功能（和网卡有关，无解）
+暂不完美的包括：iMessage，FaceTime，Apple Watch 解锁 Mac（系统信息显示支持，但是偏好设置没有相关选项）
 
 2018.08.07 修改：加入 USB 3.0 patch
 
