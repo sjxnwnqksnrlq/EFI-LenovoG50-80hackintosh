@@ -15,3 +15,5 @@ https://osxlatitude.com/forums/topic/5966-details-about-the-smart-touchpad-drive
 注意：右键需要设定为 33.
 
 2018.08.11 修改：如果要使用 VGA 输出，请使用 16160002 的 ig 作为你的显卡 ig。
+
+2018.08.18 修改：更新了一揽子驱动，使用 Whatevergreen 代替 IntelGraphicsFixup。
