@@ -1,5 +1,23 @@
 # EFI-LenovoG50-80hackintosh
-联想G50-80 黑苹果 EFI 文件。适配 macOS 版本为 10.13.6（17G65)--10.14 Developer Beta (18A365a)
+驱动链接：
+
+https://github.com/acidanthera/WhateverGreen/releases
+
+https://github.com/acidanthera/AppleALC/releases
+
+https://github.com/acidanthera/Lilu/releases
+
+https://bitbucket.org/RehabMan/os-x-fake-pci-id/downloads/
+
+https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
+
+https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/
+
+https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/
+
+https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/
+
+联想 G50-80 黑苹果 EFI 文件。适配 macOS 版本为 10.13.6（17G65)--10.14 Developer Beta (18A365a)
 
 使用之前，请务必重新 generate 序列号，方法为 Clover Configurator 中选择 SMBIOS-找到那个箭头的地方，选择 MacBook Pro 12,1 就可以了。
 
