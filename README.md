@@ -39,4 +39,5 @@ https://osxlatitude.com/forums/topic/5966-details-about-the-smart-touchpad-drive
 2018.08.18 修改：更新了一揽子驱动，使用 Whatevergreen 代替 IntelGraphicsFixup。更换了 BCM94360CS2 MacBook Air 拆机网卡，去掉了针对 BCM94352z 网卡的蓝牙和 Wi-Fi 的相关 patch。
 
 https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html
+
 ![图片](https://github.com/sjxnwnqksnrlq/EFI-LenovoG50-80hackintosh/blob/master/images/image.png)
