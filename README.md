@@ -19,7 +19,7 @@ https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/
 
 联想 G50-80 黑苹果 EFI 文件。核心配置为 Intel Core i5 5200U with HD5500，RTL8111 有线网卡，Conexant 20751/2 声卡，独立显卡已屏蔽，无线网卡先更换为 BCM94352z，目前已经更换为 MacBook Air 拆机网卡 BCM94360CS2.
 
-适配 macOS 版本为 10.13.6（17G65)--10.14 Developer Beta (18A365a)
+适配 macOS 版本为 10.13.6（17G65)--10.14 Developer Beta (18A371a)
 
 使用之前，请务必重新 generate 序列号，方法为 Clover Configurator 中选择 SMBIOS-找到那个箭头的地方，选择 MacBook Pro 12,1 就可以了。
 
@@ -41,3 +41,7 @@ https://osxlatitude.com/forums/topic/5966-details-about-the-smart-touchpad-drive
 https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html
 
 ![图片](https://github.com/sjxnwnqksnrlq/EFI-LenovoG50-80hackintosh/blob/master/images/image.png)
+
+2018.08.21 修改：使用了一种全新的方法，来解决升级到最新 Mojave Beta 版 DVMT 补丁失效的问题。
+
+https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen/
