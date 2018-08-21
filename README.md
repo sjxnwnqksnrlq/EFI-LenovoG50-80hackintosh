@@ -42,6 +42,6 @@ https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html
 
 ![图片](https://github.com/sjxnwnqksnrlq/EFI-LenovoG50-80hackintosh/blob/master/images/image.png)
 
-2018.08.21 修改：使用了一种全新的方法，来解决升级到最新 Mojave Beta 版 DVMT 补丁失效的问题。
+2018.08.21 修改：使用了一种全新的方法，来解决升级到最新 Mojave Beta 版 DVMT 补丁失效的问题。处于容错考虑，之前的 DVMT kextstopatch 仍然保留，只是 disable 掉。
 
 https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen/
