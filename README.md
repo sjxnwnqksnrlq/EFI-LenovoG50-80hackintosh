@@ -47,3 +47,5 @@ https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html
 提醒：最近暂时没有 HDMI 设备可供测试，暂时不知道 HDMI 音频视频输出是否正常使用，因为使用了新的驱动方法。
 
 https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen/
+
+2018.09.08 修改：被迫使用原来的 kextstopatch 功能来驱动 HDMI 音频，Whatevergreen 不知道为什么无法使用。
