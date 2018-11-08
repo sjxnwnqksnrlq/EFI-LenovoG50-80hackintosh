@@ -23,9 +23,9 @@ https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/
 
 使用之前，请务必重新 generate 序列号，方法为 Clover Configurator 中选择 SMBIOS-找到那个箭头的地方，选择 MacBook Pro 12,1 就可以了。
 
-已经完美的功能包括：声卡，显卡，网卡，变频，睡眠，无线网卡
+已经完美的功能包括：声卡，显卡，网卡，变频，睡眠，无线网卡，iMessage，FaceTime（白苹果三码注入搞定，这个东西存在很大的个体差异）
 
-暂不完美的包括：iMessage，FaceTime，Apple Watch 解锁 Mac（系统信息显示支持，但是偏好设置没有相关选项，不过似乎白苹果账号没有 Apple Watch 的话也没有相关选项）
+暂不完美的包括：Apple Watch 解锁 Mac（系统信息显示支持，但是偏好设置没有相关选项，不过似乎白苹果账号没有 Apple Watch 的话也没有相关选项）
 
 2018.08.07 修改：加入 USB 3.0 patch
 
