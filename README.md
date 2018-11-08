@@ -19,7 +19,7 @@ https://bitbucket.org/RehabMan/os-x-realtek-network/downloads/
 
 联想 G50-80 黑苹果 EFI 文件。核心配置为 Intel Core i5 5200U with HD5500，RTL8111 有线网卡，Conexant 20751/2 声卡，独立显卡已屏蔽，无线网卡先更换为 BCM94352z，目前已经更换为 MacBook Air 拆机网卡 BCM94360CS2.
 
-适配 macOS 版本为 10.13.6（17G65)--10.14 Developer Beta (18A371a)
+适配 macOS 版本为 10.12.6（16G29)--10.14.2 Developer Beta (18C38b)
 
 使用之前，请务必重新 generate 序列号，方法为 Clover Configurator 中选择 SMBIOS-找到那个箭头的地方，选择 MacBook Pro 12,1 就可以了。
 
@@ -49,3 +49,5 @@ https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html
 https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-whatevergreen/
 
 2018.09.08 修改：被迫使用原来的 kextstopatch 功能来驱动 HDMI 音频，Whatevergreen 不知道为什么无法使用。
+
+2018.11.08 修改：全面使用 Whatevergreen 完成显卡相关 patch，包括 HDMI 音频--请注意 property。另外扩展了兼容性，使用 VirtualSMC 代替 Fake SMC，并且针对 macOS Sierra 老系统加入 IntelGraphicsDVMTFixup 来兼容老系统（Whatevergreen 的 DVMT Patch 针对 Sierra 失效）
