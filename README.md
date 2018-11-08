@@ -50,4 +50,4 @@ https://www.insanelymac.com/forum/topic/334899-intel-framebuffer-patching-using-
 
 2018.09.08 修改：被迫使用原来的 kextstopatch 功能来驱动 HDMI 音频，Whatevergreen 不知道为什么无法使用。
 
-2018.11.08 修改：全面使用 Whatevergreen 完成显卡相关 patch，包括 HDMI 音频--请注意 property。另外扩展了兼容性，使用 VirtualSMC 代替 Fake SMC，并且针对 macOS Sierra 老系统加入 IntelGraphicsDVMTFixup 来兼容老系统（Whatevergreen 的 DVMT Patch 针对 Sierra 失效）
+2018.11.08 修改：全面使用 Whatevergreen 完成显卡相关 patch，包括 HDMI 音频--请注意 property。另外扩展了兼容性，使用 VirtualSMC 代替 FakeSMC，并且针对 macOS Sierra 老系统加入 IntelGraphicsDVMTFixup 来兼容老系统（Whatevergreen 的 DVMT Patch 针对 Sierra 失效）
